@@ -1,10 +1,12 @@
 Finetuning a SmolLM-360M-Instruct model and a custom-built language model for creative writing dialogue generation- WORK IN PROGRESS
 
+
 Citations:
 
 Custim language model code built and later modified from
 
-The Annotated Transformer by Sasha Rush (Harvard NLP, 2018)
+[The Annotated Transformer by Sasha Rush (Harvard NLP, 2018)](https://nlp.seas.harvard.edu/annotated-transformer/#background)
+
 
 SmolLM-360M-Instruct from 
 
