@@ -4,7 +4,7 @@ Link: https://huggingface.co/spaces/mazinnadaf/dialogue-assistant-work-in-progre
 
 > ### Citations:
 >
-> Custom language model code built and later modified from  
+> Custom language model code modified from  
 > [The Annotated Transformer by Sasha Rush (Harvard NLP, 2018)](https://nlp.seas.harvard.edu/annotated-transformer/#background)
 >
 > SmolLM-360M-Instruct from:
